@@ -24,6 +24,7 @@ knitr::include_graphics("Love_Headshot_Jan2019.png")
     - He prefers his given name to be written "Thomas" as opposed to "Tom".
     - Most of his friends and colleagues call him "Tom". You are welcome to do so, outside of class time, if it makes you comfortable.
 - At Github, I am [THOMASELOVE](https://github.com/thomaselove).
+    - Github repository for this site [is found here](https://github.com/THOMASELOVE/431-2020-preclass).
 - My professional Twitter handle is [ThomasELove](https://twitter.com/ThomasELove).
 
 ### A Few Other Things
@@ -38,3 +39,5 @@ knitr::include_graphics("Love_Headshot_Jan2019.png")
 ### Office Location(s)
 
 I have an office at CWRU in the Wood building (WG-82J) and an office at MetroHealth Medical Center (Rammelkamp R229A) but do not anticipate being in either office for visitors in the Fall 2020 semester. Instead, I work out of my home.
+
+
