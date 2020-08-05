@@ -1,0 +1,33 @@
+name: 431 Pre-Class
+navbar:
+  title: "431 Pre-Class"
+  left:
+    - text: Home
+      href: index.html
+    - text: The 431-432 Course
+      menu: 
+        - text: What We'll Be Doing
+          href: course.html
+        - text: (Draft) Fall Calendar
+          href: calendar.html
+    - text: Books
+      href: books.html
+    - text: Software
+      menu:
+        - text: General Information
+          href: software.html
+        - text: Installing R Packages
+          href: packages.html
+    - text: Questions & Answers
+      href: questions.html
+  right:
+    - text: "About Dr. Love"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    highlight: haddock
+    includes:
+      after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no

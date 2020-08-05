@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>About Dr. Love</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">431 Pre-Class</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    The 431-432 Course
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="course.html">What We'll Be Doing</a>
+    </li>
+    <li>
+      <a href="calendar.html">(Draft) Fall Calendar</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="books.html">Books</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Software
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="software.html">General Information</a>
+    </li>
+    <li>
+      <a href="packages.html">Installing R Packages</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="questions.html">Questions &amp; Answers</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="about.html">About Dr. Love</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">About Dr. Love</h1>
+
+</div>
+
+
+<p>Hi. My name is Thomas E. Love, Ph.D., and I’ll be teaching 431 this semester.</p>
+<p><img src="Love_Headshot_Jan2019.PNG" width="20%" /></p>
+<ul>
+<li>Email is the best way to reach me: I’m at <strong>Thomas dot Love at case dot edu</strong>, and this is on the bottom of each page of this pre-class website.</li>
+<li>I will be away from email August 6-16 but will catch up quickly on my return.</li>
+</ul>
+<div id="i-have-at-least-three-different-jobs." class="section level3">
+<h3>I have at least three different jobs.</h3>
+<ul>
+<li>I am a Professor in the Departments of Medicine and Population &amp; Quantitative Health Sciences at Case Western Reserve University. I teach three courses each year (PQHS 431, 432 and 500) and also lead the Health Care Analytics track of the MS program in Biostatistics.</li>
+<li>I direct a Biostatistics and Data Science group at the Population Health Research Institute and the Center for Health Care Research and Policy at The MetroHealth System.</li>
+<li>For ten years, I was the (founding) Data Director for <a href="http://betterhealthpartnership.org/">Better Health Partnership</a>, an alliance of people who provide, pay for and receive care in Northeast Ohio. I now serve as Chief Data Scientist there.</li>
+</ul>
+</div>
+<div id="name-pronouns-social-media" class="section level3">
+<h3>Name, Pronouns, Social Media</h3>
+<ul>
+<li>Professor Love uses he/him/his pronouns.
+<ul>
+<li>Most students refer to him either as Professor Love or Dr. Love, and he prefers this during class.</li>
+<li>He prefers his given name to be written “Thomas” as opposed to “Tom”.</li>
+<li>Most of his friends and colleagues call him “Tom”. You are welcome to do so, outside of class time, if it makes you comfortable.</li>
+</ul></li>
+<li>At Github, I am <a href="https://github.com/thomaselove">THOMASELOVE</a>.</li>
+<li>My professional Twitter handle is <a href="https://twitter.com/ThomasELove">ThomasELove</a>.</li>
+</ul>
+</div>
+<div id="a-few-other-things" class="section level3">
+<h3>A Few Other Things</h3>
+<ul>
+<li>I am a Fellow of the American Statistical Association, and have won numerous awards for my teaching and my research, including the 2018 <a href="https://students.case.edu/traditions/awards/diekhoff/">John S. Diekhoff Award for Graduate Teaching</a> from CWRU.</li>
+<li>I have been teaching at CWRU since 1994, and have taught every manner of CWRU student over the years, especially students in biostatistics, medicine, and management.</li>
+<li>In research, I use statistical methods to look at questions in health policy and in particular the provision of health services. I mostly work with observational data, rather than data that emerge from randomized clinical trials, and I have a special interest in working with data from electronic health records.</li>
+<li>I hold degrees from Columbia University in the City of New York and from the University of Pennsylvania. My dissertation adviser was Paul Rosenbaum.</li>
+<li>I am married to a brilliant attorney and we are in the process of emptying our nest. Our older son is a senior at the University of Pittsburgh, and our younger son begins his first year at Columbia in September.</li>
+<li>We live in Shaker Heights. I enjoy baseball, golf and several other sports. I also sing and act occasionally in <a href="https://github.com/THOMASELOVE/theater">community theater</a>.</li>
+</ul>
+</div>
+<div id="office-locations" class="section level3">
+<h3>Office Location(s)</h3>
+<p>I have an office at CWRU in the Wood building (WG-82J) and an office at MetroHealth Medical Center (Rammelkamp R229A) but do not anticipate being in either office for visitors in the Fall 2020 semester. Instead, I work out of my home.</p>
+</div>
+
+<p style = "color:#6B33FF; font-size:16px">
+Questions? Email Dr. Love at <b>Thomas dot Love at case dot edu</b>. (Note that he will be away August 6-16.)
+</p>
+<p><img alt="CWRU Logo" style="border-width:0" src="cwru_logo.jpg" height="120" width ="240"/></a>
+</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

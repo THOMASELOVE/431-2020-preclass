@@ -1,0 +1,41 @@
+---
+title: "Pre-Class Website for 431 in Fall 2020"
+---
+
+## Welcome! 
+
+431 is the first part of a two-semester sequence (431-432) taught by [Professor Thomas E. Love](about.html) in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/) at [Case Western Reserve University](https://case.edu/).
+
+This pre-class web site shares information and instructions we want to get to you before our first class meeting on 2020-08-25 at 1 PM. At that first class session, we'll unveil the (more extensive) main course site to all enrolled students.
+
+### What Should I Do Before Class Starts?
+
+1. Register and enroll in the course via the [CWRU Student Information System (SIS)](https://sis.case.edu/).
+    - Note that PQHS 431, CRSP 431 and MPHP 431 are all identical.
+2. Fill out the [Welcome to 431 Survey](https://bit.ly/431-2020-welcome-survey) at https://bit.ly/431-2020-welcome-survey.
+    - Note that you must **log into Google via your CWRU account** in order to access the survey.
+    - The survey should take 15-20 minutes to complete, and we encourage you to complete it well before class begins, if possible.
+3. Visit [the Books page](books.html) to learn about the books you'll need to purchase.
+4. Visit [the Software page](software.html) to obtain and install the software we'll use. 
+5. Review the other material on this pre-class site, including:
+    - Dr. Love's description of [the 431-432 Course](course.html), including an early draft of the [Course Calendar](calendar.html), to learn more about my expectations of you and the plans for this semester's version of the course.
+    - The [Questions (and Answers) page](questions.html), where we'll try to answer any of your questions before class begins.
+6. Review [the CWRU Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) to ensure you can join our first class on 2020-08-25 at 1 PM through your CWRU Zoom account.
+7. Watch your CWRU email from August 17-25 for further bulletins (including the Zoom link for the first class session.)
+
+### Getting Help
+
+Before the class begins, contact Dr. Love at the email below with any questions. Note that he will be away and not responding to email August 6-16, but will return August 17. Our first class is August 25.
+
+### This Site is Temporary
+
+At the first class, Dr. Love will provide a link to the main course site for the semester. That site will include:
+
+- The complete 431 Syllabus, including information on the teaching assistants, assignments, etc.
+- Dr. Love's Course Notes (which serve as the main textbook for the course.)
+- Materials for each class, including presentation slides, session recordings and announcements.
+- Data (and Code) for the course's assignments, presentations, and notes.
+- Readings and Supplemental Materials that we'll review during the course.
+- Pages describing all course Assignments and grading plans.
+
+We look forward to meeting you (virtually) in late August!

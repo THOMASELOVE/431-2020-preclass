@@ -1,0 +1,19 @@
+---
+title: "(Draft) Calendar for Fall 2020"
+---
+
+Our first class meeting will be held via Zoom from 1:00 to 2:15 PM on Tuesday 2020-08-25.
+
+Class sessions are scheduled for Tuesdays and Thursdays from 1:00 to 2:15 PM. All course materials will be delivered remotely using the Zoom platform. We anticipate there will wind up being a total of **24** regular lectures given across the 27 class sessions listed below. As the semester approaches, we'll change the calendar to reflect additional information and more finalized plans.
+
+All class sessions will be recorded and made available to students enrolled in the class.
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(knitr); library(janitor); library(lubridate); library(tidyverse)
+cal_data <- read_csv("cal_data.csv")
+cal_data <- cal_data %>% 
+    mutate(Date = excel_numeric_to_date(Date))
+kable(cal_data)
+```
+
+Final Presentations will be held in December, prior to the end of University Final Exams on 2020-12-16.

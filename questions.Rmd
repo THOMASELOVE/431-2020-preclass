@@ -1,0 +1,60 @@
+---
+title: "Questions (and Answers) About 431-432"
+---
+
+## How do I get help?
+
+Before the class begins, contact Dr. Love at the email address on the bottom of this page with any questions. 
+
+- Note that he will be away and not responding to email August 6-16, but will return August 17. 
+- Our first class is August 25. At that class, we'll describe all of the ways we have for you to get help during the semester.
+
+### Do I have to be in Cleveland to take this course?
+
+Not this Fall, no. The course will take place remotely this Fall, using the Zoom platform. 
+
+### Will all class materials be available to me online?
+
+Essentially, yes. All sessions will be video-recorded and made available to you after class. All slides and many other materials will also be provided after each class.
+
+### Will the class have teaching assistants and office hours?
+
+Yes, it will. All office hours and all teaching assistant work will be done remotely. 
+
+### How do I get connected to Zoom through CWRU?
+
+By now, you're probably familiar with Zoom. We ask that you review [the CWRU Knowledge Base for Zoom](https://case.edu/utech/help/knowledge-base/zoom/zoom-information) prior to our first class and be sure that you're ready to join our first class through your CWRU Zoom account.
+
+Dr. Love will provide the Zoom link for Class 1 to all enrolled students in advance of the first class.
+
+### How will 2020's class compare to previous versions of 431?
+
+It'll be given remotely, of course, and it will also focus on some relatively recent technological and programming advances which make some things easier to discuss in a course of this type. This includes an increased discussion of Bayesian methods, at the expense of a discussion of many specific hypothesis testing and estimation scenarios. More details on specific topics should be available in time for our first class session.
+
+### Will Dr. Love discuss the upcoming U.S. Elections in class?
+
+Yes, extensively. The [FiveThirtyEight website](https://fivethirtyeight.com/) will be a primary source for some of these discussions.
+
+### Will Dr. Love discuss COVID-19 examples in class?
+
+We may provide some (completely optional) opportunities for Dr. Love to react to the news on COVID-19 and the presentation of visualizations and models for the pandemic. He may also provide you with some (again, optional) links to outside resources, but we will use no COVID-19 data in the class for examples.
+
+### Can I audit 431 or 432?
+
+No. Enrolled students and teaching assistants are the only people permitted to attend the course.
+
+### Is it possible to take the course pass/fail?
+
+No, it is not. However, no student in the past five years has received a final course grade other than A, B or Incomplete.
+
+### If I take 431, do I have to also take 432 in the Spring?
+
+It is the natural thing to do. The 431 course is part 1 of a two-semester sequence. Frankly, 432 contains some of the most interesting material and is generally regarded by students who take both as the more entertaining course. Every year, some students take only 431, though. The decision is up to you. The 432 course assumes you have completed 431.
+
+### What should I be doing before class to get ready?
+
+Take a look at the list [we've provided here](index.html), and also try to get some rest. It will be a busy semester.
+
+### More to come...
+
+More questions (and answers) will appear here in response to student emails sent to the address below.
