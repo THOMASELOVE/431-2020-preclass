@@ -7,7 +7,12 @@ title: "Questions (and Answers) About 431-432"
 Before the class begins, contact Dr. Love at the email address on the bottom of this page with any questions. 
 
 - Note that he will be away and not responding to email August 6-16, but will return August 17. 
-- Our first class is August 25. At that class, we'll describe all of the ways we have for you to get help during the semester.
+- Our first class is August 25. At that class, we'll describe all of the ways we have for you to get help during the semester. 
+- Once the semester begins, there will be many ways for you to get help, and I am fortunate to have a lot of teaching assistant support. Many of the TAs are students who were in your shoes (taking this course) one or two years ago who are volunteering their time to help you understand this stuff better.
+
+### Will the class have teaching assistants and office hours?
+
+Yes, it will. All office hours and all teaching assistant work will be done remotely. 
 
 ### Do I have to be in Cleveland to take this course?
 
@@ -15,11 +20,7 @@ Not this Fall, no. The course will take place remotely this Fall, using the Zoom
 
 ### Will all class materials be available to me online?
 
-Essentially, yes. All sessions will be video-recorded and made available to you after class. All slides and many other materials will also be provided after each class.
-
-### Will the class have teaching assistants and office hours?
-
-Yes, it will. All office hours and all teaching assistant work will be done remotely. 
+Yes. All sessions will be video-recorded and made available to you after class. All slides and many other materials will also be provided after each class.
 
 ### How do I get connected to Zoom through CWRU?
 
@@ -69,4 +70,4 @@ Take a look at the list [we've provided here](index.html), and also try to get s
 
 ### More to come...
 
-More questions (and answers) will appear here in response to student emails sent to the address below.
+More questions (and answers) will appear here in response to student emails sent to the address below, and in response to your comments on the [Welcome to 431 Survey](https://bit.ly/431-2020-welcome-survey).
